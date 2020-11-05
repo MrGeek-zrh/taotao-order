@@ -1,0 +1,7 @@
+/home/mrgeek/document/workspace/JavaWorkspace/taotao-order/src/main/java/com/taotao/order/pojo/OrderInfo.java
+/home/mrgeek/document/workspace/JavaWorkspace/taotao-order/src/main/java/com/taotao/rest/jedis/impl/JedisClientCluster.java
+/home/mrgeek/document/workspace/JavaWorkspace/taotao-order/src/main/java/com/taotao/rest/jedis/impl/JedisClientSingle.java
+/home/mrgeek/document/workspace/JavaWorkspace/taotao-order/src/main/java/com/taotao/rest/jedis/JedisClient.java
+/home/mrgeek/document/workspace/JavaWorkspace/taotao-order/src/main/java/com/taotao/order/controller/OrderController.java
+/home/mrgeek/document/workspace/JavaWorkspace/taotao-order/src/main/java/com/taotao/order/service/OrderService.java
+/home/mrgeek/document/workspace/JavaWorkspace/taotao-order/src/main/java/com/taotao/order/service/impl/OrderServiceImpl.java
